@@ -1,5 +1,5 @@
 ---
-title: "PA1_template.Rmd"
+title: "PA1_template.md"
 author: "Wenjian Zhang"
 date: "September 17, 2015"
 output: html_document
